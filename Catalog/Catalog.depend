@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1609954249 source:d:\codeblocks ssss\catalog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestionare.h"
+	"interfata.h"
+	"medii.h"
+	"informatii.h"
+
+1609945933 d:\codeblocks ssss\catalog\gestionare.h
+	<stdlib.h>
+
+1610004884 source:d:\codeblocks ssss\catalog\gestionare.c
+	<stdio.h>
+	"gestionare.h"
+	<string.h>
+
+1610000510 source:d:\codeblocks ssss\catalog\medii.c
+	<stdio.h>
+	"medii.h"
+
+1609954549 d:\codeblocks ssss\catalog\medii.h
+	<stdlib.h>
+
+1609954861 source:d:\codeblocks ssss\catalog\informatii.c
+	<stdio.h>
+	"informatii.h"
+	<string.h>
+
+1609954436 d:\codeblocks ssss\catalog\informatii.h
+	<stdlib.h>
+
+1609954469 source:d:\codeblocks ssss\catalog\interfata.c
+	<stdio.h>
+	"interfata.h"
+
+1609954656 d:\codeblocks ssss\catalog\interfata.h
+	<stdlib.h>
+

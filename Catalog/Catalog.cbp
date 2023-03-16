@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Catalog" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Catalog" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Catalog" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="10amedii" />
+		<Unit filename="10bmedii" />
+		<Unit filename="10cmedii" />
+		<Unit filename="11amedii" />
+		<Unit filename="11bmedii" />
+		<Unit filename="11cmedii" />
+		<Unit filename="12amedii" />
+		<Unit filename="12bmedii" />
+		<Unit filename="12cmedii" />
+		<Unit filename="9amedii" />
+		<Unit filename="9bmedii" />
+		<Unit filename="9cmedii" />
+		<Unit filename="gestionare.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gestionare.h" />
+		<Unit filename="informatii.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="informatii.h" />
+		<Unit filename="interfata.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="interfata.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="medii.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="medii.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
